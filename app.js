@@ -28,7 +28,7 @@ const XPATH = 'AB2_cop_5xtm_L7kJ_W3df_v8QM_P4by_Z2sX';
 const DOMAIN = '';
 
 // 订阅里显示的节点名（可随便改）
-const NAME = 'railway-';
+const NAME = '火车头-';
 
 // HTTP 监听端口（Render 通常用环境变量 PORT，这里你硬编码，自行确保和平台配置一致）
 const PORT = process.env.PORT || 3000;
