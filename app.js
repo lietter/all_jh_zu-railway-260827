@@ -10,37 +10,19 @@ const path = require('path');
 
 // VLESS UUID,支持填写多个UUID.不够的话可以再往下添加，如果感觉多的话，可以整行删除
 const UUIDS = [
-'7a8c3d12-4f9e-4b2a-8c1d-3e5f6a7b8c9d',
-'3f5e7a1b-2c4d-4e6f-9a8b-1c2d3e4f5a6b',
-'9b8a7f6e-5d4c-4b3a-2f1e-6d5c4b3a2f1e',
-'1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d',
-'6e5d4c3b-2a1f-4e9d-8c7b-5a4f3e2d1c0b',
-'4f3e2d1c-0b9a-48f7-9e6d-5c4b3a2f1e0d',
-'8d7c6b5a-4f3e-42d1-9c8b-7a6f5e4d3c2b',
-'2c1b0a9f-8e7d-46c5-9b4a-3f2e1d0c9b8a',
-'5a4f3e2d-1c0b-49a8-8f7e-6d5c4b3a2f1e',
-'0e1f2a3b-4c5d-46e7-8f9a-1b2c3d4e5f6a',
-'3d2c1b0a-9f8e-47d6-8c5b-4a3f2e1d0c9b',
-'7f6e5d4c-3b2a-41f0-9e8d-7c6b5a4f3e2d',
-'1c0b9a8f-7e6d-45c4-9b3a-2f1e0d9c8b7a',
-'6b5a4f3e-2d1c-40b9-8a7f-6e5d4c3b2a1f',
-'9e8d7c6b-5a4f-43e2-9d1c-0b9a8f7e6d5c',
-'4a3f2e1d-0c9b-48a7-8f6e-5d4c3b2a1f0e',
-'2f1e0d9c-8b7a-46f5-9e4d-3c2b1a0f9e8d',
-'8c7b6a5f-4e3d-42c1-9b0a-9f8e7d6c5b4a',
-'5d4c3b2a-1f0e-49d8-8c7b-6a5f4e3d2c1b',
-'0b9a8f7e-6d5c-44b3-9a2f-1e0d9c8b7a6f',
-'3e2d1c0b-9a8f-47e6-8d5c-4b3a2f1e0d9c',
-'7d6c5b4a-3f2e-41d0-9c8b-7a6f5e4d3c2b',
-'1f0e9d8c-7b6a-45f4-9e3d-2c1b0a9f8e7d',
-'6a5f4e3d-2c1b-40a9-8f7e-6d5c4b3a2f1e', 
+'0ed29a31-0292-4468-83fb-68e45e97fefc',
+'e23366a4-98a9-4ea4-b630-02b6a1552cf0',
+'7783e981-bd4f-4bbc-ba34-3f18e0511750',
+'c49e8098-0fe3-489d-995c-618797a825e8', 
+'6d13751a-11da-48bb-b4e7-117a4d0fd2f0', 
+'55980649-6f70-40e0-b78e-533a73e81717',   
 ];
 
 // 订阅地址后缀（这里需要修改一下，可以随便输入一些字母或数字）
-const SUB_PATH = 'Og4_dh3_GH_UI6W_w7gh_gyw7_7898F';
+const SUB_PATH = 'JX7_lum_8vrc_H9wP_R2zK_m6LN_F3hD_W9pK';
 
 // XHTTP 路径（这里需要修改一下，可以随便输入一些字母或数字）
-const XPATH = 'IM4_dup_3nbi_fsc0V5_QYI7_K4xp_jp5PE_G8nG';
+const XPATH = 'AB2_cop_5xtm_L7kJ_W3df_v8QM_P4by_Z2sX';
 
 // 域名 / IP（可以写你的 Render 域名或留空自动探测）
 const DOMAIN = '';
